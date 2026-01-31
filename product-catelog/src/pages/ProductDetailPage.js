@@ -2,6 +2,6 @@ import React from 'react'
 
 export const ProductDetailPage = () => {
   return (
-    <div>ProductDetailPage</div>
+    <div>ProductDetailPage on new branch</div>
   )
 }
